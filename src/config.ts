@@ -11,6 +11,8 @@ export const siteConfig: SiteConfig = {
 	title: "Ryan Zhang",
 	subtitle: "Ryan's blog",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
+	url: "https://www.124365.xyz", // 💡 确保这里也是你的域名，且末尾没有 '/'
+  // ... 其他配置
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: false, // Hide the theme color picker for visitors
