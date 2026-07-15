@@ -24,7 +24,7 @@ export const siteConfig: SiteConfig = {
 		credit: {
 			enable: false, // Display the credit text of the banner image
 			text: "", // Credit text to be displayed
-			url: "https://www.124365.xyz", // (Optional) URL link to the original artwork or artist's page
+			url: "", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
@@ -55,7 +55,12 @@ export const navBarConfig: NavBarConfig = {
 			url: "https://v.124365.xyz", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
-				{
+		{
+			name: "邮箱",
+			url: "https://mail.124365.xyz", // Internal links should not include the base path, as it is automatically added
+			external: true, // Show an external link icon and will open in a new tab
+		},
+		{
 			name: "GitHub",
 			url: "https://github.com/E5-lab/Fuwari", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
@@ -84,7 +89,12 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
+			url: "https://github.com/E5-lab/Fuwari",
+		},
+		{
+			name: "Mail to",
+			icon: "fa6-brands:mail",
+			url: "mailto:admin@124365.xyz",
 		},
 	],
 };
