@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
 		credit: {
 			enable: false, // Display the credit text of the banner image
 			text: "", // Credit text to be displayed
-			url: "", // (Optional) URL link to the original artwork or artist's page
+			url: "https://www.124365.xyz", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
@@ -43,7 +43,6 @@ export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,
 		LinkPreset.Archive,
-		LinkPreset.About,
 		{
 			name: "音乐",
 			url: "https://lx.124365.xyz/music", // Internal links should not include the base path, as it is automatically added
@@ -59,13 +58,14 @@ export const navBarConfig: NavBarConfig = {
 			url: "https://github.com/E5-lab/Fuwari", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
+		LinkPreset.About,
 	],
 };
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	name: "Ryan Zhang",
+	bio: "每一个未来 都有人在",
 	links: [
 		{
 			name: "Twitter",
