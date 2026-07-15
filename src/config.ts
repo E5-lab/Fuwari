@@ -45,11 +45,16 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "视频站",
-			url: "https://v.124365.xyz", // Internal links should not include the base path, as it is automatically added
+			name: "音乐",
+			url: "https://lx.124365.xyz/music", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		{
+			name: "视频",
+			url: "https://v.124365.xyz", // Internal links should not include the base path, as it is automatically added
+			external: true, // Show an external link icon and will open in a new tab
+		},
+				{
 			name: "GitHub",
 			url: "https://github.com/E5-lab/Fuwari", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
