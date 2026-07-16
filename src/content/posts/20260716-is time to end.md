@@ -2,7 +2,7 @@
 title: '是时候了，也该做个了结了'
 published: 2016-09-05
 description: '2016年9月5日，曹云金发表的六千字长文原文。'
-image: ''
+image: 'https://im.124365.xyz/file/20260716/1784201904329_曹云金.jpeg'
 tags: [历史文献, 归档]
 category: 互联网备忘录
 draft: false
