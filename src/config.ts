@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Ryan Zhang",
-	subtitle: "Ryan's blog",
+	title: "Relio Zhang",
+	subtitle: "Relio's blog",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	url: "https://www.124365.xyz", // 💡 确保这里也是你的域名，且末尾没有 '/'
   // ... 其他配置
@@ -71,7 +71,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Ryan Zhang",
+	name: "Relio Zhang",
 	bio: "每一个未来 都有人在",
 	links: [
 		{
