@@ -2,7 +2,7 @@
 title: '天涯犹在，不诉薄凉'
 published: 2016-09-25
 description: '2016年9月25日，郭德纲发表的针对曹云金长文回应的原始全文。'
-image: ''
+image: 'https://im.124365.xyz/file/20260716/1784202573362_郭德纲.webp'
 tags: [历史文献, 归档]
 category: 互联网备忘录
 draft: false
