@@ -93,7 +93,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "Mail to",
-			icon: "fluent-color:mail-32",
+			icon: "fa6-brands:qq",
 			url: "mailto:admin@124365.xyz",
 		},
 	],
