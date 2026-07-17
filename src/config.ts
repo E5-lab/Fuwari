@@ -93,7 +93,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "Mail to",
-			icon: "fa6-brands:steam",
+			icon: "fluent-color:mail-32",
 			url: "mailto:admin@124365.xyz",
 		},
 	],
