@@ -61,26 +61,21 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Muisc",
-			icon: "mdi:music-circle", // Visit https://icones.js.org/ for icon codes
+			icon: "fluent:music-note-2-24-filled", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://lx.124365.xyz/music",
 		},
 		{
 			name: "Movies",
-			icon: "mdi:movie-roll",
+			icon: "fluent:movies-and-tv-20-filled",
 			url: "https://v.124365.xyz",
 		},
 		{
 			name: "Mail",
-			icon: "mdi:email",
+			icon: "fluent:mail-24-filled",
 			url: "https://mail.124365.xyz",
-		},
-		{
-			name: "Github",
-			icon: "mdi:github",
-			url: "https://github.com/E5-lab/Fuwari",
-		},
+		},		
 	],
 };
 
