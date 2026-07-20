@@ -61,19 +61,19 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Muisc",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			icon: "fa6-brands:itunes", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://lx.124365.xyz/music",
 		},
 		{
 			name: "Movies",
-			icon: "fa6-brands:twitter",
+			icon: "fa6-brands:youtube",
 			url: "https://v.124365.xyz",
 		},
 		{
 			name: "Mail",
-			icon: "fa6-brands:twitter",
+			icon: "fa6-brands:mailchimp",
 			url: "https://mail.124365.xyz",
 		},		
 	],
