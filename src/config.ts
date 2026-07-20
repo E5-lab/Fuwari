@@ -45,22 +45,7 @@ export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,
 		LinkPreset.Archive,
-		{
-			name: "音乐",
-			url: "https://lx.124365.xyz/music", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
-		{
-			name: "视频",
-			url: "https://v.124365.xyz", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
-		{
-			name: "邮箱",
-			url: "https://mail.124365.xyz", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
-		{
+		{	
 			name: "GitHub",
 			url: "https://github.com/E5-lab/Fuwari", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
@@ -75,27 +60,22 @@ export const profileConfig: ProfileConfig = {
 	bio: "每一个未来 都有人在",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			name: "Muisc",
+			icon: "fluent:music-note-2-24-filled", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://lx.124365.xyz/music",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			name: "Movies",
+			icon: "fluent:movies-and-tv-20-filled",
+			url: "https://v.124365.xyz",
 		},
 		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/E5-lab/Fuwari",
-		},
-		{
-			name: "Mail to",
-			icon: "fa6-brands:steam",
-			url: "mailto:admin@124365.xyz",
-		},
+			name: "Mail",
+			icon: "fluent:mail-24-filled",
+			url: "https://mail.124365.xyz",
+		},		
 	],
 };
 
