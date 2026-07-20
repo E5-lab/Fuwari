@@ -2,6 +2,7 @@
 title: '通过Docker Compose快速部署Flatnas'
 published: 2026-07-20
 description: '通过Docker Compose快速部署Flatnas'
+image: 'https://im.124365.xyz/file/20260720/1784532578290_flatnas-1.png, https://im.124365.xyz/file/20260720/1784532589489_flatnas-2.png,https://im.124365.xyz/file/20260720/1784532592962_flatnas-3.png '
 tags: [Docker, 绿联NAS, Docker Compose]
 category: Docker
 draft: false
