@@ -2,6 +2,7 @@
 title: '通过Docker Compose快速部署Navidrome'
 published: 2026-07-20
 description: '通过Docker Compose快速部署Navidrome'
+image: 'https://im.124365.xyz/file/20260720/1784539118705_large_v-trans.png'
 tags: [Docker, 绿联NAS, Docker Compose]
 category: Docker
 draft: false
