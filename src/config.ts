@@ -61,19 +61,19 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Muisc",
-			icon: "fluent:music-note-2-24-filled", // Visit https://icones.js.org/ for icon codes
+			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://lx.124365.xyz/music",
 		},
 		{
 			name: "Movies",
-			icon: "fluent:movies-and-tv-20-filled",
+			icon: "fa6-brands:twitter",
 			url: "https://v.124365.xyz",
 		},
 		{
 			name: "Mail",
-			icon: "fluent:mail-24-filled",
+			icon: "fa6-brands:twitter",
 			url: "https://mail.124365.xyz",
 		},		
 	],
