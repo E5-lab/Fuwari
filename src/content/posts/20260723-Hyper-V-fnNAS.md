@@ -1,6 +1,6 @@
 ---
 title: 'Hyper-V安装飞牛OS教程-NAS入门指南'
-published: 2026-07-20
+published: 2026-07-23
 description: '有些朋友想尝试一下飞牛OS，但是又不想重新组装一套NAS机器，那么可以先试试用Hyper-V虚拟机在先有的Windows电脑上安装飞牛OS体验一下再决定要不要组装一套新机器。'
 image: 'https://im.124365.xyz/file/20260723/1784789899740_fnos.webp'
 tags: [Docker, fnNAS, Docker Compose]
